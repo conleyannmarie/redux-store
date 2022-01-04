@@ -1,2 +1,0 @@
-//starter code
-//starting
